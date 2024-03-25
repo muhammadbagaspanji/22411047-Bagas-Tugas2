@@ -1,0 +1,104 @@
+.title1 {
+  text-align:center;
+    color: black
+}
+.img {
+  text-align:center;
+
+}
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: rgb(248, 252, 251)
+}
+.my-table{
+    border: none;
+    font-style: bold;
+    text-align: center;
+    font-size: 25px;
+}
+.my-table th, td {
+    text-align: middle;
+    padding: 85px;
+    font-size: 25px;
+}
+.my-table th{
+background-color: gray;
+color: rgb(10, 7, 10);
+
+}
+.my-table tr:hover {
+    background-color: burlywood;
+    text-align: center;
+}
+
+.button {
+    background-color: #088289; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #ff0000;
+    border-radius: 12px;
+  }
+  
+  .button1:hover {
+    background-color: #ff0000;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #18a561;
+    border-radius: 12px;
+  }
+  
+  .button2:hover {
+    background-color: #24cd68;
+    color: white;
+  }
+  
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: left;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .price {
+    color: black;
+    font-size: 22px;
+  }
+  
+  .card button {
+    
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: whitesmoke;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+     
